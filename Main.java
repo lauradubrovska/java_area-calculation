@@ -1,4 +1,4 @@
-// 231RDB049 Laura Dubrovska
+// Laura Dubrovska
 
 import java.util.Scanner;
 
